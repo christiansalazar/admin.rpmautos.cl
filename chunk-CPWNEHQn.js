@@ -1,0 +1,1 @@
+import {l as C}from'./main-6Z7EPQSS.js';var o=class e{url(t,r,a=""){let i=t.replace("%slug",a);return i=i.replace("%id",r),i}listadoUrl(t,r){return t.replace("%id",r)}static{this.\u0275fac=function(r){return new(r||e)};}static{this.\u0275prov=C({token:e,factory:e.\u0275fac,providedIn:"root"});}};export{o};
